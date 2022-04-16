@@ -4,5 +4,5 @@
 
  int main()
  {
-	 int count = _printf("Name: %s, Age: %i \n", "kevin",  "23");
+	 int count = _printf("Age: %i \n", 23);
  }

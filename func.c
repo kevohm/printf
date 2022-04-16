@@ -24,16 +24,4 @@ void print_str(va_list a){
  void print_p(va_list a){
      printf("%p", va_arg(a, void*));
  }
- void print_o(va_list a){
-     printf("%o", va_arg(a, int));
- }
-  void print_Hx(va_list a){
-     printf("%x", va_arg(a, int));
- }
-   void print_HX(va_list a){
-     printf("%X", va_arg(a, int));
- }
- void print_per(va_list a){
-     printf("%%");
- }
  

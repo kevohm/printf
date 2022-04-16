@@ -35,4 +35,6 @@
 
  void print_i(va_list a);
 
+ int _putchar(char c);
+
 #endif
