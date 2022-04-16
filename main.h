@@ -13,7 +13,7 @@
      void (*f)(va_list);
  } init;
 
- void _printf(char *format, ...);
+ int _printf(const char *format, ...);
 
  void print_str(va_list a);
 
