@@ -33,4 +33,6 @@
 
  void print_per(va_list a);
 
+ void print_i(va_list a);
+
 #endif

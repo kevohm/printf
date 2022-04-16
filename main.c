@@ -4,5 +4,5 @@
 
  int main()
  {
-	 _printf("Name: %s, Age: %d ","kevin",  24);
+	 _printf("Name: %s, Age: %s ", "kevin",  "name");
  }
