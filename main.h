@@ -5,7 +5,7 @@
 #include <stdarg.h>
 
 /**
- * struct print_buffer - structer for the write buffer.
+ * struct print_buffer - struct for the write buffer.
  * @index: current index of the buffer.
  * @size: size of the buffer.
  * @overflow: this recoreds the overflow.
@@ -46,7 +46,7 @@ void append_num(buffer *buf, unsigned int num);
 
 int write_bin(buffer *buf, va_list v_ls);
 
-/* Martin Above / Samie Below */
+/* Martin Above / Voda Below */
 
 int _printf(const char *format, ...);
 
