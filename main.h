@@ -1,6 +1,5 @@
 #ifndef _MAIN_H
 #define _MAIN_H
-#ifndef STDLIB_H
 
 #include <stdlib.h>
 #include <stdarg.h>
@@ -62,4 +61,5 @@ int write_mod(buffer *buf, va_list v_ls);
 int write_int(buffer *buf, va_list v_ls);
 
 char *itoc(int num, char *dest);
+
 #endif
