@@ -1,26 +1,9 @@
-#ifndef _GLOBAL_DEFINITIONS_H
-#define _GLOBAL_DEFINITIONS_H
-
-/* #include "global_definitions.h" */
-
-#endif
-
-#ifndef STDLIB_H
-#define STDLIB_H
-
-#include <stdlib.h>
-
-#endif
-
-#ifndef STDARG_H
-#define STDARG_H
-
-#include <stdarg.h>
-
-#endif
-
 #ifndef _MAIN_H
 #define _MAIN_H
+#ifndef STDLIB_H
+
+#include <stdlib.h>
+#include <stdarg.h>
 
 /**
  * struct print_buffer - structer for the write buffer.
