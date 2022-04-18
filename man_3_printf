@@ -1,4 +1,4 @@
-.TH _PRINTF "808" "November 2018" "Holberton"
+.TH _PRINTF "808" "January 2022" "Main"
 .SH NAME
 printf \- prints supplied string with certain operators for substitution and formatting
 .SH SYNOPSIS
