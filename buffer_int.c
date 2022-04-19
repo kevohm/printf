@@ -21,6 +21,7 @@ buffer *buf_new()
 }
 /**
  * buf_custom - Function that create a buffer at a custom
+ *
  * @size_uint: the desired size of the custom buffer.
  *
  * Return: a pointer to a buffer
@@ -41,6 +42,7 @@ buffer *buf_custom(size_t size_uint)
 }
 /**
  * buf_end - frees up the buffer.
+ *
  * @buf: pointer to a buffer
  */
 void buf_end(buffer *buf)
