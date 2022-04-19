@@ -10,4 +10,4 @@ This function formats string using
 <li>%%</li>
 </ul>
 
-Developed by [Kevin Kibet](https://github.com/kevohm) and [Vodina Efem](https://github.com/Simplyvoda)
+Developed by [Kevin Kipkemboi](https://github.com/kevohm) and [Vodina Efem](https://github.com/Simplyvoda)
